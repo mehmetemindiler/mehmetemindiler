@@ -1,4 +1,4 @@
-[![MasterHead](https://duckduckgo.com/?q=react+html+css+jacascrip+profile+img&atb=v355-1&iax=images&ia=images&iai=https%3A%2F%2Ffiverr-res.cloudinary.com%2Fimages%2Ft_main1%2Cq_auto%2Cf_auto%2Cq_auto%2Cf_auto%2Fgigs%2F185188120%2Foriginal%2Fb084c38d746e1cc36e133e7557c06c4e47a45198%2Fcreate-responsive-websites-using-html-css-javascript-react.jpeg)
+[![MasterHead](https://alexmartin.cloud/assets/images/blog/blog1/react-js-banner.png)
 
 <h1 align="center">Hi 👋, I'm Mehmet Emin Diler</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
