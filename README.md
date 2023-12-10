@@ -1,4 +1,4 @@
-![MasterHead](https://alexmartin.cloud/assets/images/blog/blog1/react-js-banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Mehmet Emin Diler</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
